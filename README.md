@@ -1,1 +1,1 @@
-# FMSS-Bili-im-Front-end-Practicum-FINAL-CASE
+# FMSS-Bilişim-Front-end-Practicum-FINAL-CASE
