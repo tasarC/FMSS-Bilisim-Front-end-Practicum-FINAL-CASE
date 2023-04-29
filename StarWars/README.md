@@ -34,6 +34,7 @@ Bu projeyi çalıştırmak için kurulum adımları:
 $ git clone https://github.com/tasarC/FMSS-Bilisim-Front-end-Practicum-FINAL-CASE.git
 $ cd proje
 $ npm install
+$ npm start
 
 
 
