@@ -21,9 +21,9 @@
 ## Özellikler
 
     Yıldız gemilerini listeleme
-    Yıldız gemileri arasında ara
-    Belirli bir yıldız gemisinin ayrıntılarını okuyun
-    Daha fazla yükle düğmesiyle daha fazla yıldız gemisi yükleyin 
+    Yıldız gemileri arasında arama yapma
+    Seçilen bir yıldız gemisinin ayrıntılarını okuyabime
+    Daha fazla yükle düğmesiyle daha fazla yıldız gemisi yükleyebilme 
 
 ## Kurulum
 
