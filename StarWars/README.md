@@ -1,6 +1,5 @@
-# Proje Adı
+# STAR WARS PROJESİ
 
-STAR WARS PROJESİ
 
  Bu proje, kullanıcıların Star Wars API'sinden verileri filtreleyebilecekleri ve arayabilecekleri bir arayüz sağlar. Kullanıcılar, filtrelemek istedikleri verileri seçebilirler ve uygulama, bu kriterlere göre API'den veri çeker ve sonuçları gösterir ayrıca daha fazla veri isteğide yapabilmektedir. Daha sonra kullanıcı aranan verilerin detayına bakabilmektedir.
  
