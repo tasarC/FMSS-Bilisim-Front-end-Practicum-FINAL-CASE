@@ -13,7 +13,18 @@ STAR WARS PROJESİ
 ## detay sayfası
 <img src="https://user-images.githubusercontent.com/81915186/235326811-9db64ff0-8fc9-490f-b7d0-c57ed346d14e.png" alt="Screenshot" width="500">
 
+## Kullanılan Teknolojiler
 
+    React.js
+    Axios
+    Router
+    
+## Özellikler
+
+    Yıldız gemilerini listeleme
+    Yıldız gemileri arasında ara
+    Belirli bir yıldız gemisinin ayrıntılarını okuyun
+    Daha fazla yükle düğmesiyle daha fazla yıldız gemisi yükleyin 
 
 ## Kurulum
 
@@ -23,3 +34,6 @@ Bu projeyi çalıştırmak için kurulum adımları:
 $ git clone https://github.com/kullanici/proje.git
 $ cd proje
 $ npm install
+
+
+
