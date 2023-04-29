@@ -7,10 +7,10 @@ STAR WARS PROJESİ
  ## Anasayfa
 <img src="https://user-images.githubusercontent.com/81915186/235326773-35ab0258-9b2a-429a-a4a0-b81fd668f59b.png" alt="Screenshot" width="500">
 
-## yeni Veri yükleme kısmı
+#### yeni veri yükleme kısmı
 <img src="https://user-images.githubusercontent.com/81915186/235326800-d4468908-70c7-41c6-9f7f-6f58bcec978f.png" alt="Screenshot" width="500">
 
-## detay sayfası
+#### detay sayfası
 <img src="https://user-images.githubusercontent.com/81915186/235326811-9db64ff0-8fc9-490f-b7d0-c57ed346d14e.png" alt="Screenshot" width="500">
 
 ## Kullanılan Teknolojiler
